@@ -1,12 +1,9 @@
 permalink: /:year/:month/:day/:title.html
 paginate: 10
 author: 
-    name: 闫肃
-    email: yansu0711@gmail.com
-    link: http://yansu.org
-    enlink: http://en.yansu.org
+    name: GG
 
-title: 紫月冰河
+title: Just_GG
 subscribe_rss: /pages/atom.xml
 
 
